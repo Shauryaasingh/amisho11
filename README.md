@@ -8,7 +8,7 @@
 - 💻 Passionate about building **end-to-end applications** (iOS + Web + Backend)  
 - 🤖 Experience in **Robotics Systems Deployment & Integration**  
 - 📊 Interested in **Data Analytics, Distributed Systems & Scalable Backend Engineering**  
-- 🌱 Currently learning more about **System Design & Cloud Infrastructure**
+
 
 ---
 
@@ -17,7 +17,7 @@
 Python • C++ • JavaScript • Java • Swift • SQL  
 
 **Frameworks & Tools:**  
-Node.js • Express • Angular • MongoDB • MySQL • Docker • Kubernetes • Git  
+Node.js • Express • Angular • MongoDB • MySQL • Docker  • Git  
 
 **Cloud & Others:**  
 Google Cloud • REST APIs • CI/CD • Agile  
